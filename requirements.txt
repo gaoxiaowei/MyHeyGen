@@ -4,9 +4,9 @@ scenedetect
 opencv-python
 ultralytics
 deepface
-numpy>=1.23.0
+numpy==1.24
 transformers
-tensorflow>= 2.14
+tensorflow==2.14.0
 pydub
 basicsr
 facexlib
