@@ -4,7 +4,7 @@ scenedetect
 opencv-python
 ultralytics
 deepface
-numpy==1.24
+pip install numpy==1.23.1
 transformers
 tensorflow==2.14.0
 pydub
